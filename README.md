@@ -1,4 +1,5 @@
-# Elevate_Lab_-Task6
+# K-Nearest Neighbors (KNN) Classification 
+
 # Iris Flower Classification Using K-Nearest Neighbors (KNN)
 
 This project demonstrates how to use the K-Nearest Neighbors (KNN) algorithm to classify iris flowers into three species based on petal and sepal dimensions. It explores model evaluation, hyperparameter tuning, and visualization of decision boundaries.
